@@ -10,7 +10,7 @@ public class Comida
         this.calorias = calorias;
     }
     
-    public int getCalorias()
+    public int getCaloriasIngeridas()
     {
         return calorias;
     }
